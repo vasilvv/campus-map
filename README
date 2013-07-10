@@ -1,0 +1,16 @@
+This repository contains a vector version of MIT campus map. This map is based
+on the map published by MIT Department of Facilities. The version here is up-to-date
+as of July 1, 2013. It is not a complete map; some fragments are truncated and a lot
+of details are omitted.
+
+This map is based on MIT Department of Facilities map, and as such, the copyright to
+this map belongs to MIT. All of the work which went into the creation of this version
+of the map, shall such work be found copyrightable, is hereby released into public
+domain.
+
+I have tried to make this map accurate, but it may contain some typos and incorrect
+markings. It may also warrant some improvements; note, however, that I want to keep
+the map uncluttered with too much excessive detail (which is one of the motivations
+for redoing the original map). Patches are welcome, as long as you agree to release
+your changes to public domain too.
+
